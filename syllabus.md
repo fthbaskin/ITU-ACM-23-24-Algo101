@@ -11,19 +11,19 @@
 - **Recursion**
 - **Backtracking**
 
-## 2. Week - Math (Fatih Çakır)
-- **Prime Numbers & Sieve**
-- **Prime Factorization**
-- **GCD & LCM**
-- **Fast Exponentiation**
-- **Permutation & Combination**
-
-## 3. Week - Basic Data Structures (Ali Kemal Coşkun)
+## 2. Week - Basic Data Structures (Ali Kemal Coşkun)
 - **Linked List**
 - **Stack**
 - **Queue**
 - **Deque**
 - **Priority Queue**
+
+## 3. Week - Math (Fatih Çakır)
+- **Prime Numbers & Sieve**
+- **Prime Factorization**
+- **GCD & LCM**
+- **Fast Exponentiation**
+- **Permutation & Combination**
 
 ## 4. Week - Introduction to Graphs and Trees (Ramazan Taş)
 - **Introduction to Graphs & Trees**
