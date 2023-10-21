@@ -21,7 +21,7 @@ Tuesday 18.00-19.30
 | 2 | Data Structures | [Ali Kemal Coşkun](https://github.com/alikemalcoskun) |
 | 3 | Math | [Fatih Çakır](https://github.com/wfatih) |
 | 4 | Intro to Graphs and Trees | [Ramazan Taş](https://github.com/Rmzntas) |
-| Term Break | Nov 8 | Contest Week | - |
+| 4.5 | Contest Week | - |
 | 5 | Graph Related Problems | [Anıl Dervişoğlu](https://github.com/anildervis) |
 | 6 | Dynamic Programming | [Ayşe Sarı](https://github.com/Ashluu) |
 
