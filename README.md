@@ -16,7 +16,7 @@ Tuesday 18.00-19.30
 ## Syllabus
 
 | Week | Date | Topics | Lecturer |
-| :--: | :----: | :------: |
+| :--: | :----: | | :----: | | :------: |
 | 1 | 31 Oct | Introduction | [Kemal Tahir Bıcılıoğlu](https://github.com/kemaltahirbicilioglu) |
 | 2 | 7 Nov | Data Structures | [Ali Kemal Coşkun](https://github.com/alikemalcoskun) |
 | 3 | 14 Nov | Math | [Fatih Çakır](https://github.com/wfatih) |
