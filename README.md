@@ -18,15 +18,15 @@ Tuesday 18.00-19.30
 
 ## Syllabus
 
-| Week | Date   | Topics                    | Lecturer               | GitHub                                                             | LinkedIn                                                                                  |
-|:----:|:------:|:-------------------------:|:----------------------:|:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-| 1    | 31 Oct | Introduction              | Kemal Tahir Bıcılıoğlu | [![GitHub][1]](https://github.com/kemaltahirbicilioglu) | -                                                                                         |
-| 2    | 7 Nov  | Data Structures           | Ali Kemal Coşkun       | [![GitHub][1])](https://github.com/alikemalcoskun)       | [![linkedin]([linkedinlogo])](https://www.linkedin.com/in/ali-kemal-coskun/)              |
-| 3    | 14 Nov | Math                      | Fatih Çakır            | [![GitHub][1])](https://github.com/wfatih)               | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/cakir-fatih/)                   |
-| 4    | 21 Nov | Intro to Graphs and Trees | Ramazan Taş            | [![GitHub][1]](https://github.com/Rmzntas)              | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/ramazan-tas/)                   |
-| 4.5  | ?      | Contest Week              | -                      | -                                                                  | -                                                                                         |
-| 5    | 28 Nov | Graph Related Problems    | Anıl Dervişoğlu        | [![GitHub][1]](https://github.com/anildervis)           | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/anil-dervisoglu/)               |
-| 6    | 5 Dec  | Dynamic Programming       | Ayşe Sarı              | [![GitHub][1]](https://github.com/Ashluu)               | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/ay%C5%9Fe-sar%C4%B1-744046202/) |
+| Week | Date   | Topics                    | Lecturer               | GitHub                                                  | LinkedIn                                                                     |
+|:----:|:------:|:-------------------------:|:----------------------:|:-------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| 1    | 31 Oct | Introduction              | Kemal Tahir Bıcılıoğlu | [![GitHub][1]](https://github.com/kemaltahirbicilioglu) | -                                                                            |
+| 2    | 7 Nov  | Data Structures           | Ali Kemal Coşkun       | [![GitHub][1]](https://github.com/alikemalcoskun)       | [![Linkedin][2]](https://www.linkedin.com/in/ali-kemal-coskun/)              |
+| 3    | 14 Nov | Math                      | Fatih Çakır            | [![GitHub][1]](https://github.com/wfatih)               | [![LinkedIn][2]](https://www.linkedin.com/in/cakir-fatih/)                   |
+| 4    | 21 Nov | Intro to Graphs and Trees | Ramazan Taş            | [![GitHub][1]](https://github.com/Rmzntas)              | [![LinkedIn][2]](https://www.linkedin.com/in/ramazan-tas/)                   |
+| 4.5  | ?      | Contest Week              | -                      | -                                                       | -                                                                            |
+| 5    | 28 Nov | Graph Related Problems    | Anıl Dervişoğlu        | [![GitHub][1]](https://github.com/anildervis)           | [![LinkedIn][2]](https://www.linkedin.com/in/anil-dervisoglu/)               |
+| 6    | 5 Dec  | Dynamic Programming       | Ayşe Sarı              | [![GitHub][1]](https://github.com/Ashluu)               | [![LinkedIn][2]](https://www.linkedin.com/in/ay%C5%9Fe-sar%C4%B1-744046202/) |
 
 ---
 ## Important Links
