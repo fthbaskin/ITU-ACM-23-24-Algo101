@@ -21,12 +21,12 @@ Tuesday 18.00-19.30
 | Week | Date   | Topics                    | Lecturer               | GitHub                                                             | LinkedIn                                                                                  |
 |:----:|:------:|:-------------------------:|:----------------------:|:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 | 1    | 31 Oct | Introduction              | Kemal Tahir Bıcılıoğlu | [![GitHub]([githublogo])](https://github.com/kemaltahirbicilioglu) | -                                                                                         |
-| 2    | 7 Nov  | Data Structures           | Ali Kemal Coşkun       | [![GitHub]([githublogo])](https://github.com/alikemalcoskun)       | [![linkedinlogo]](https://www.linkedin.com/in/ali-kemal-coskun/)              |
-| 3    | 14 Nov | Math                      | Fatih Çakır            | [![GitHub]([githublogo])](https://github.com/wfatih)               | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/cakir-fatih/)                   |
-| 4    | 21 Nov | Intro to Graphs and Trees | Ramazan Taş            | [![GitHub]([githublogo])](https://github.com/Rmzntas)              | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/ramazan-tas/)                   |
+| 2    | 7 Nov  | Data Structures           | Ali Kemal Coşkun       | [![GitHub]([githublogo])](https://github.com/alikemalcoskun)       | ![[linkedin]([linkedinlogo])](https://www.linkedin.com/in/ali-kemal-coskun/)              |
+| 3    | 14 Nov | Math                      | Fatih Çakır            | [![GitHub]([githublogo])](https://github.com/wfatih)               | ![[LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/cakir-fatih/)                   |
+| 4    | 21 Nov | Intro to Graphs and Trees | Ramazan Taş            | [![GitHub]([githublogo])](https://github.com/Rmzntas)              | ![[LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/ramazan-tas/)                   |
 | 4.5  | ?      | Contest Week              | -                      | -                                                                  | -                                                                                         |
-| 5    | 28 Nov | Graph Related Problems    | Anıl Dervişoğlu        | [![GitHub]([githublogo])](https://github.com/anildervis)           | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/anil-dervisoglu/)               |
-| 6    | 5 Dec  | Dynamic Programming       | Ayşe Sarı              | [![GitHub]([githublogo])](https://github.com/Ashluu)               | [![LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/ay%C5%9Fe-sar%C4%B1-744046202/) |
+| 5    | 28 Nov | Graph Related Problems    | Anıl Dervişoğlu        | [![GitHub]([githublogo])](https://github.com/anildervis)           | ![[LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/anil-dervisoglu/)               |
+| 6    | 5 Dec  | Dynamic Programming       | Ayşe Sarı              | [![GitHub]([githublogo])](https://github.com/Ashluu)               | ![[LinkedIn]([linkedinlogo])](https://www.linkedin.com/in/ay%C5%9Fe-sar%C4%B1-744046202/) |
 
 ---
 ## Important Links
