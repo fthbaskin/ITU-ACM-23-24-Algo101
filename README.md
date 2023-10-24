@@ -12,7 +12,7 @@
 
 ### Lecture Day & Time
 
-Tuesday 18.00-19.30
+Tuesday 18.00 - 20.00
 
 ---
 
