@@ -5,14 +5,15 @@
 
 ## Prerequisities
 
-- Basic knowledge about any programming language, preferably C/C++.
+- Basic knowledge of any programming language, preferably C/C++.
 - Interest and curiosity in algorithms.
 
 ---
 
 ### Lecture Day & Time
-
-Tuesday 18.00 - 20.00
+📆 Every **Tuesday**, starting from **31th of October**
+🕒 18.00 - 20.00
+📍 EHB 2102
 
 ---
 
@@ -21,7 +22,7 @@ Tuesday 18.00 - 20.00
 | Week | Date   | Topics                    | Lecturer               | GitHub                                                  | LinkedIn                                                                     |
 |:----:|:------:|:-------------------------:|:----------------------:|:-------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | 1    | 31 Oct | Introduction              | Kemal Tahir Bıcılıoğlu | [![GitHub][1]](https://github.com/kemaltahirbicilioglu) | -                                                                            |
-| 2    | 7 Nov  | Data Structures           | Ali Kemal Coşkun       | [![GitHub][1]](https://github.com/alikemalcoskun)       | [![Linkedin][2]](https://www.linkedin.com/in/ali-kemal-coskun/)              |
+| 2    | 7 Nov  | Data Structures           | Ali Kemal Coşkun       | [![GitHub][1]](https://github.com/alikemalcoskun)       | [![LinkedIn][2]](https://www.linkedin.com/in/ali-kemal-coskun/)              |
 | 3    | 14 Nov | Math                      | Fatih Çakır            | [![GitHub][1]](https://github.com/wfatih)               | [![LinkedIn][2]](https://www.linkedin.com/in/cakir-fatih/)                   |
 | 4    | 21 Nov | Intro to Graphs and Trees | Ramazan Taş            | [![GitHub][1]](https://github.com/Rmzntas)              | [![LinkedIn][2]](https://www.linkedin.com/in/ramazan-tas/)                   |
 | 4.5  | ?      | Contest Week              | -                      | -                                                       | -                                                                            |
@@ -30,7 +31,7 @@ Tuesday 18.00 - 20.00
 
 ---
 ## Important Links
-You can find detailed syllabus at [here](./syllabus.md) and some helper links at [here](./links.md).
+You can find the detailed syllabus at [here](./syllabus.md) and some helper links at [here](./links.md).
 
 ---
 
