@@ -13,7 +13,7 @@
 ### Lecture Day & Time
 📆 Every **Tuesday**, starting from **31th of October** \
 🕒 18.00 - 20.00 \
-📍 EHB 2102 \
+📍 EHB 2102 
 
 ---
 
