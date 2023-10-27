@@ -23,11 +23,11 @@ You can visit [this link](https://github.com/ituacm/ITU-ACM-22-Summer-Algorithm-
 ### Beginner level
 - [C++ introduction video by freeCodeCamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 ### Some tutorials for people new to C++
-- Input/Output: https://cplusplus.com/doc/tutorial/basic_io/
-- Vector (Dynamic Sized Array): https://www.geeksforgeeks.org/vector-in-cpp-stl/
-- String: https://www.geeksforgeeks.org/stdstring-class-in-c/
+- [Input/Output](https://cplusplus.com/doc/tutorial/basic_io/)
+- [Vector (Dynamic Sized Array)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+- [String](https://www.geeksforgeeks.org/stdstring-class-in-c/)
 ### Some concepts that will help in C++
-- Stringstream: https://www.geeksforgeeks.org/stringstream-c-applications/
-- Range Based For Loop: https://www.geeksforgeeks.org/range-based-loop-c/
-- Auto Keyword: https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
-- STL Algorithms: https://www.geeksforgeeks.org/c-magicians-stl-algorithms/
+- [Stringstream](https://www.geeksforgeeks.org/stringstream-c-applications/)
+- [Range Based For Loop](https://www.geeksforgeeks.org/range-based-loop-c/)
+- [Auto Keyword](https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/)
+- [STL Algorithms](https://www.geeksforgeeks.org/c-magicians-stl-algorithms/)
