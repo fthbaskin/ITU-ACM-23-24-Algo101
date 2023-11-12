@@ -31,7 +31,7 @@
 
 ---
 ## Important Links
-You can find the detailed syllabus at [here](./syllabus.md) and some helper links at [here](./links.md).
+You can find the detailed syllabus at [here](./syllabus.md), some helper links at [here](./links.md) and practice questions at [here](./practice_questions.md).
 
 ---
 
